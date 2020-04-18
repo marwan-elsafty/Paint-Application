@@ -1,0 +1,2 @@
+# Paint-Application
+Drawing and painting applications are very popular and have a huge user base; they generally offer a big number of features that includes but is not limited to: Drawing, Coloring, and Resizing. They also include several built in, and possibly extensible set of geometric shapes, and classically, they allow the user to undo or redo any instructions to make the application more usable.
